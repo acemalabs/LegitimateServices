@@ -31,7 +31,7 @@ address  DTI = "//replace address//"; //line 4
 ```
 - Click `Deploy`
 
-- After you click `Deploy`, there will be a displayed contracts at the bottom right. Click the `Legitimate Services` at 0xxxxxxx.
+- After you click `Deploy`, there will be a displayed contracts at the bottom right.Under Deployed Contracts Click the `Legitimate Services` at 0xxxxxxx.
 
 - There is a 3 button and 3 input box beside it. 
 
