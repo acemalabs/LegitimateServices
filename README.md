@@ -1,4 +1,4 @@
-# LegitimateServices
+# Legitimate Services
 ## How to run this contract
 
 
