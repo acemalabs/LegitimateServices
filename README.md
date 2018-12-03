@@ -1,5 +1,5 @@
 # LegitimateServices
-# How to run this contract
+## How to run this contract
 
 
 ## Go to browser
